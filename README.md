@@ -13,3 +13,5 @@ This project demonstrates a CI/CD pipeline using Jenkins and Docker. It includes
   - `test.js`: Contains tests for the application.
 - **jenkins-docker/**: Contains Docker configurations for Jenkins.
   - `Dockerfile`: The Dockerfile for building the Jenkins image.
+  - `docker-compose.yml`: Defines the services for Jenkins and the application.
+
